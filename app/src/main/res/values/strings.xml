@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ConfirmationPrompt</string>
+    <string name="app_name">APC Playground</string>
     <string name="isConfirmationPromptSupported">Is Confirmation Prompt Supported:</string>
     <string name="promptText">promptText:</string>
     <string name="extraData">extraData:</string>

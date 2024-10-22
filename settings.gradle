@@ -1,2 +1,2 @@
-rootProject.name = "ConfirmationPrompt"
+rootProject.name = "APC Playground"
 include ':app'
